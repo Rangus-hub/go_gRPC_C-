@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option go_package = "./proto";
+
+package info;
+
+service PplManagement{
+    rpc CreatePerson (PersonInfo) returns (Employee){}
+}
+
+message PersonInfo{
+    string name = 1;
+    int32 num = 2;
+    string email = 3;
+}
+
+message Employee{
+    int32 id = 1;
+    string company = 2; 
+    string name = 3; 
+    string email = 4;
+
+}

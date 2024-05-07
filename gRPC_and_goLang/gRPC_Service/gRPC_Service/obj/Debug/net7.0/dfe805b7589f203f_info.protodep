@@ -1,0 +1,2 @@
+obj\Debug\net7.0\proto/Info.cs \
+obj\Debug\net7.0\proto/InfoGrpc.cs: proto/info.proto

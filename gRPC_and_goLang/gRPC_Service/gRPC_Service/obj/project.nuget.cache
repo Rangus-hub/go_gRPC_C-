@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8YJ5/XXo2CPkcgpMsL5RCKbRU6d1uSzZ2XZDHXAWin5aTlv82nXiYICS4vZ5+wSYiYJJIHwWy5VNkqmmmJLuDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ranganath.Joshi\\Desktop\\DEV\\C#\\gRPC_and_goLang\\gRPC_Service\\gRPC_Service\\gRPC_Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ranganath.Joshi\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
+    "C:\\Users\\Ranganath.Joshi\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\Ranganath.Joshi\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\Ranganath.Joshi\\.nuget\\packages\\grpc.tools\\2.62.0\\grpc.tools.2.62.0.nupkg.sha512",
+    "C:\\Users\\Ranganath.Joshi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
